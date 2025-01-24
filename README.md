@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js route handlers: the lack of error handling when dealing with user inputs.  The `bug.js` file shows the problematic code, which crashes when an invalid user ID (non-numeric) is passed. The `bugSolution.js` file provides a corrected version with proper error handling.
